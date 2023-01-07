@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Week2/Inheritance.sol": "B"
+			"contracts/Week2/Inheritance.sol": "F"
 		},
 		"evmVersion": "london",
 		"libraries": {},
